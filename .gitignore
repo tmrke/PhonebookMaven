@@ -1,0 +1,9 @@
+# Project exclude paths
+/target/
+/.idea/
+/.idea/workspace.xml
+/.idea/vcs.xml
+/.idea/misc.xml
+/.idea/jarRepositories.xml
+/.idea/encodings.xml
+/.idea/compiler.xml
